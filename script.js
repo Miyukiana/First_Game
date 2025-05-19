@@ -45,4 +45,3 @@ if (keyIsDown(RIGHT_ARROW)){
 if (keyIsDown(32) && player.y >= ground){
     jumpForce = -12; 
 }
-}
